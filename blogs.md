@@ -17,5 +17,5 @@ http://scott.fortmann-roe.com/docs/BiasVariance.html
 # Logistic Regression
 https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
 
-A very good blog on Linear Regression and Logistic Regression [Must Read]
+## A very good blog on Linear Regression and Logistic Regression [Must Read]
 https://towardsdatascience.com/linear-regression-vs-logistic-regression-ols-maximum-likelihood-estimation-gradient-descent-bcfac2c7b8e4
